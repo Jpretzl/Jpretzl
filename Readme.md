@@ -1,5 +1,1 @@
-Hi I'm Jpretzl I'm a 13 year old programmer. I use
-- Python
-- Ruby
-- Rust
-- Java
+Hi I'm Jpretzl I'm a 14 year old programmer. I use Python, a little bit of typescript, and LaTeX
