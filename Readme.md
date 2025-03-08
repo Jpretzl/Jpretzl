@@ -1,1 +1,1 @@
-Hi I'm Jpretzl I'm a 14 year old programmer. I use Python and Lua, and I'm learning React. 
+Hi I'm Jpretzl I'm a 14 year old programmer. I use Python, Java, and HTML/JS/CSS.
